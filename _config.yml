@@ -12,23 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "RUTH WAMBUI MWANGI"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "AWS Certified Cloud Practitioner | Creating Secure and Scalable Cloud Solutions" # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "AWS Certified Cloud Practitioner | AWS Cloud Tech Support Specialist| Cloud Engineer"
-url                      : "https://ruthmwangi.github.io"
+url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Ruthie-tech/ruthmwangi.github.io"
+repository               : Ruthie-tech/ruthmwangi.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true #false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -68,7 +68,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -115,16 +115,16 @@ analytics:
 author:
   name             : "Ruth Mwangi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an AWS Certified Cloud Practitioner with a strong foundation in cloud fundamentals, Linux, networking, security, Python, and relational databases. I help individuals and small businesses set up, configure, troubleshoot, and optimize their AWS environments."
   location         : "Kenya"
-  email            :
+  email            : "ruthwambui96@gmail.com"
   links:
-    - label: "ruthwambui96@gmail.com"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "www.linkedin.com/in/ruth-wambui-mwangi"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ruthwambui96@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://https://ruthmwangi.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
