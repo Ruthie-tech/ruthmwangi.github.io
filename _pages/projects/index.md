@@ -12,4 +12,5 @@ Welcome! Here are some of the projects I have worked on. Click on any project to
 - [Infrastructure as Code with AWS CloudFormation](/projects/vpc-ec2-setup/)
 
 
+
 You can explore each project to see **architecture, code, and outcomes**. More projects will be added as I continue building my portfolio.
