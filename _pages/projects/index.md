@@ -9,7 +9,7 @@ Welcome! Here are some of the projects I have worked on. Click on any project to
 
 ### Cloud & Infrastructure Projects
 
-- [Infrastructure as Code with AWS CloudFormation](/projects/vpc-ec2-setup/)
+- [Infrastructure as Code with AWS CloudFormation](vpc-ec2-setup/)
 
 
 
