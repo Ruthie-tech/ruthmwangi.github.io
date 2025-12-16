@@ -50,4 +50,4 @@ The CloudFormation template provisions:
 
 ### 🔗 Project Links 
 - **CloudFormation Template:** [vpc-ec2-setup.yaml](https://github.com/Ruthie-tech/ruthmwangi.github.io/blob/master/templates/cloudformation/vpc-ec2-setup.yaml)
-- **Template Instructions:** [README.md] (https://github.com/Ruthie-tech/ruthmwangi.github.io/blob/master/templates/cloudformation/README.md)
+- **Template Instructions:** [README.md](https://github.com/Ruthie-tech/ruthmwangi.github.io/blob/master/templates/cloudformation/README.md)
