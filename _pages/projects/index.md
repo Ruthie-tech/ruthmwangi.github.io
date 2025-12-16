@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/
 ---
 
-Welcome! Here are some of the projects I have worked on, demonstrating my skills in cloud computing, automation. Click on any project to see details.
+Welcome! Here are some of the projects I have worked on. Click on any project to see the details.
 
 
 ### Cloud & Infrastructure Projects
