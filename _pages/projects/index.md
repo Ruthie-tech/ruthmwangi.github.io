@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 layout: single
+search: true
 permalink: /projects/
 ---
 
