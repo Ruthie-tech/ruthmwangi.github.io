@@ -9,7 +9,7 @@ Welcome! Here are some of the projects I have worked on. Click on any project to
 
 ### Cloud & Infrastructure Projects
 
-- [Infrastructure as Code with AWS CloudFormation](https://github.com/Ruthie-tech/ruthmwangi.github.io/blob/master/_pages/projects/vpc-ec2-setup.md)
+- [Infrastructure as Code with AWS CloudFormation](https://github.com/ruthmwangi1/ruthmwangi1.github.io/blob/master/_pages/projects/vpc-ec2-setup.md)
 
 
 
