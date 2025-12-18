@@ -1,7 +1,6 @@
 ---
 title: "Infrastructure as Code with AWS CloudFormation"
 layout: single
-search: true
 permalink: projects/vpc-ec2-setup/
 ---
 
