@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "Certifications"
     url: /certifications/
+  - title: "Contacts"
+    url: /contacts/
   - title: "FAQ"
     url: /faq/
  
