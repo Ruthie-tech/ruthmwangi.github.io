@@ -6,8 +6,6 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Resume"
-    url: /resume/
   - title: "Certifications"
     url: /certifications/
   - title: "FAQ"
